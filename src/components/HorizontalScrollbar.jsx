@@ -1,7 +1,7 @@
 import React, { useContext } from 'react';
 import { ScrollMenu } from 'react-horizontal-scrolling-menu';
 import { Box } from '@mui/material';
-import BodyPart from './bodyPart';
+import BodyPart from './BodyPart';
 import ExerciseCard from './ExerciseCard';
 // import RightArrowIcon from '../assets/icons/arrowRight.svg';
 // import LeftArrowIcon from '../assets/icons/arrow-left-bold.svg';
